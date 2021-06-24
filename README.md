@@ -5,17 +5,17 @@
 </p>
 
 ## 📜 Description:
-
+The **"WallEasy"** is a highly flexible and robust e-wallet mobile application. With this, the User can very easily manage, send and recieve money within his/her circle. Supports other payment options too. This is a Cross-Platform application, so it can be used for Android and iOS devices with a single codebase. Currently it consists only of UI elements, but can later be configured and linked to a Remote Database and APIs to provide further functionalities.
 
 ## 🌎 Released Android Application:
 https://gofile.io/d/W6Gi7W
 
 ## 📽 Sample Demo:
-
+https://user-images.githubusercontent.com/54114888/123327008-8b3f8900-d557-11eb-8604-1995df44696d.mp4
 
 ## 🏗 Built With:
 - Android Studio.
-- Flutter.
+- Flutter SDK.
 - Dart.
 
 ## 🧪 Steps to Build locally:
